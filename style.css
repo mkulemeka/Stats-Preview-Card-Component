@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    background-color:hsl(233, 47%, 7%);
+    color: hsl(0, 0%, 100%);
+    font-family: 'Inter', sans-serif;
+    Font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main {
+    background-color: hsl(244, 38%, 16%);
+    margin: auto;
+    width: 80%;
+    display: flex;
+    /* justify-content: space-between; */
+    border-radius: 5px;
+    text-align: left;
+}
+
+.main .text {
+    width: 50%;
+    padding: 7%;
+    
+}
+
+.main .text h1 {
+    margin-bottom: 6%;
+    font-size: 45px;
+}
+
+.main .text h1 span {
+    color: hsl(277, 64%, 61%);
+    font-weight: 700;
+}
+
+.main .text p {
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    letter-spacing: .5px;
+}
+.main .statistics {
+    display: flex;
+    margin-top: 20%;
+}
+
+.main .statistics div {
+    width: 32%;
+    text-transform: uppercase;
+    color: hsla(0, 0%, 100%, 0.6);
+    letter-spacing: .5px;
+    font-size: 13px;
+    
+}
+
+.main .statistics div span {
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 20px;
+    display: block;
+    color: hsl(0, 0%, 100%);
+    margin-bottom: -6px;
+}
+
+.main .attribution {
+    text-align: left;
+    margin-top: 50px;
+}
+
+.main .img {
+    width: 50%;
+    text-align: center;
+    background: hsl(277, 82%, 20%);
+    position: relative;
+    
+    
+}
+
+.main .img img {
+    width: 100%;
+    height: 100%;
+    filter: grayscale(100%);
+    opacity: 0.3;  
+}
+
+@media only screen and (max-width: 600px) {
+    .main {
+        flex-direction: column-reverse;
+        text-align: center; 
+        margin: 40px 0;
+    }
+
+    .main .text, .main .img, .main .img img {
+        width: 100%;
+    }
+
+    .main .text .statistics {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 15%;
+    }
+
+    .main .text .statistics div {
+        margin-bottom: 10%;
+    }
+
+}
+
