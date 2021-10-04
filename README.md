@@ -78,10 +78,8 @@ I plan to practice using using since I tried implementing it in this project but
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Example resource 1](https://www.smashingmagazine.com) - This is an amazing article that helped me understand how flexbox actually works. I really liked the reverse flex directions and that helped achieved the mobile view of this project.
+- [Example resource 2](https://www.w3schools.com) - This website has a lot of resources that are beneficial to beginners like myselft. It helped understand layouts and the box model.
 
 ## Author
 
@@ -89,8 +87,3 @@ I plan to practice using using since I tried implementing it in this project but
 - Frontend Mentor - [@mkulemeka](https://www.frontendmentor.io/profile/mkulemeka)
 - Twitter - [@Kahle01](https://www.twitter.com/@Kahle01)
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
