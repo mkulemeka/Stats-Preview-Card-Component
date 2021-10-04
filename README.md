@@ -16,7 +16,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 The challenge was about creating a preview card using just HTML and CSS.
@@ -33,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/desktop-first-using-css-and-html-cxn0N7Fxb](https://www.frontendmentor.io/solutions/desktop-first-using-css-and-html-cxn0N7Fxb)
+- Live Site URL: [https://mkulemeka-previewcard.netlify.app](https://mkulemeka-previewcard.netlify.app)
 
 ## My process
 
@@ -66,9 +65,6 @@ body {
     justify-content: center;
 }
 ```
-
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ### Continued development
 I will continue working on proper alignement of html contents using css. I found out that the biggest challenge I have is making sure that elements take the appropriate space on the page.
